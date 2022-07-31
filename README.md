@@ -15,3 +15,6 @@ Clone this repository or download from the release page. Double click `Quickpass
 ## Requirements
 - Alfred 5.x
 - Python > 3.8
+
+## Other Alfred-Workflows:
+- [Janus-for-Alfred](https://github.com/manesspl/janus-for-alfred): customizable username generator
