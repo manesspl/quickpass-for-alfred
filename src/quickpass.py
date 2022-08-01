@@ -27,7 +27,7 @@ def generate_pw(length):
     alfred_output(deadbolt)
     
 def alfred_output(deadbolt):
-    response = json.dumps({"items": [{'title': deadbolt, 'subtitle': f"Lenght: {len(deadbolt)} characters", 'arg': deadbolt}]})
+    response = json.dumps({"items": [{'title': deadbolt, 'subtitle': f"Length: {len(deadbolt)} characters", 'arg': deadbolt}]})
     sys.stdout.write(response)
 
 
