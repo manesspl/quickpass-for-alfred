@@ -5,7 +5,7 @@
 *Generate strong passwords in Alfred quickly*
 
 ## Usage
-<img src="https://user-images.githubusercontent.com/86777463/182039286-5b1bc09f-6464-48a9-b823-09f08c44c7b9.gif" width="700" height="400">
+<img src="https://user-images.githubusercontent.com/86777463/182087699-50fec4ae-4a5e-4458-a46f-6260ec6dffb3.gif" width="700" height="400">
 
 Quick and simple: Type `pw` in Alfred to generate a strong password (Default length: 20 chars). You can specifiy the length of the password by passing an integer (for example: `16`). Hitting `⏎ Return` will copy the password to your clipboard.
 
